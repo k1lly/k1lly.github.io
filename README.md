@@ -1,2 +1,2 @@
 # k1lly.github.io
-My personal websote
+My personal website
